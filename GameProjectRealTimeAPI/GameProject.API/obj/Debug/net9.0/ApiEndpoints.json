@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "GameProject.API.Controllers.GameController",
+    "Method": "AddPlayer",
+    "RelativePath": "api/Game/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "player",
+        "Type": "GameProject.Domain.Models.Player",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
